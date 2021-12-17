@@ -1,0 +1,30 @@
+body{
+    padding-bottom: 5rem;
+}
+
+.textoData{
+    color: rgb(61, 61, 61);
+    font-size: 1.2rem;
+    padding: 5rem 15rem;
+    white-space: pre-wrap;
+    text-align: justify;
+}
+
+#imgLandingPage{
+    width: 80%;
+}
+
+.h3Data{
+    margin-left: 15rem;
+    margin-bottom: 2rem;
+    margin-top: 4rem;
+}
+
+#imgColor{
+    width: 30%;
+    height: 30%;
+}
+
+#oi{
+    width: 100%;
+}
